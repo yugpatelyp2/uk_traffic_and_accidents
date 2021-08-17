@@ -4,4 +4,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def index():
-    return "Welcome To UK Accidents Prediction Matching Modal"
+    return "Welcome To UK Accidents Prediction Matching Learning Modal"
