@@ -1,0 +1,189 @@
+[
+  {
+    "title": "Light Condition",
+    "types": [
+      {
+        "title": "Light Condition 1",
+        "path": "LightCondition/Light_Conditions_LC_01"
+      },
+      {
+        "title": "Light Condition 4",
+        "path": "LightCondition/Light_Conditions_LC_04"
+      },
+      {
+        "title": "Light Condition 5",
+        "path": "LightCondition/Light_Conditions_LC_05"
+      },
+      {
+        "title": "Light Condition 6",
+        "path": "LightCondition/Light_Conditions_LC_06"
+      },
+      {
+        "title": "Light Condition 7",
+        "path": "LightCondition/Light_Conditions_LC_07"
+      }
+    ]
+  },
+  {
+    "title": "Road Surface",
+    "types": [
+      {
+        "title": "Road Surface 1",
+        "path": "Roadsurface/Road_Surface_Conditions_WC_01"
+      },
+      {
+        "title": "Road Surface 2",
+        "path": "Roadsurface/Road_Surface_Conditions_WC_02"
+      },
+      {
+        "title": "Road Surface 3",
+        "path": "Roadsurface/Road_Surface_Conditions_WC_03"
+      },
+      {
+        "title": "Road Surface 4",
+        "path": "Roadsurface/Road_Surface_Conditions_WC_04"
+      },
+      {
+        "title": "Road Surface 5",
+        "path": "Roadsurface/Road_Surface_Conditions_WC_05"
+      }
+    ]
+  },
+  {
+    "title": "Road Type",
+    "types": [
+      {
+        "title": "Road Type 1",
+        "path": "Roadtype/Road_Type_RT_01"
+      },
+      {
+        "title": "Road Type 2",
+        "path": "Roadtype/Road_Type_RT_02"
+      },
+      {
+        "title": "Road Type 3",
+        "path": "Roadtype/Road_Type_RT_03"
+      },
+      {
+        "title": "Road Type 6",
+        "path": "Roadtype/Road_Type_RT_06"
+      },
+      {
+        "title": "Road Type 7",
+        "path": "Roadtype/Road_Type_RT_07"
+      },
+      {
+        "title": "Road Type 9",
+        "path": "Roadtype/Road_Type_RT_09"
+      }
+    ]
+  },
+  {
+    "title": "Ruraland Urban",
+    "types": [
+      {
+        "title": "Ruraland Urban 1",
+        "path": "RuralandUrban/Urban_or_Rural_Area_01"
+      },
+      {
+        "title": "Ruraland Urban 2",
+        "path": "RuralandUrban/Urban_or_Rural_Area_02"
+      },
+      {
+        "title": "Ruraland Urban 3",
+        "path": "RuralandUrban/Urban_or_Rural_Area_03"
+      }
+    ]
+  },
+  {
+    "title": "Severaty",
+    "types": [
+      {
+        "title": "Severaty 1",
+        "path": "Severaty/Accsident_Severaty_01"
+      },
+      {
+        "title": "Severaty 2",
+        "path": "Severaty/Accsident_Severaty_02"
+      },
+      {
+        "title": "Severaty 3",
+        "path": "Severaty/Accsident_Severaty_03"
+      }
+    ]
+  },
+  {
+    "title": "Speed Limit",
+    "types": [
+      {
+        "title": "Speed Limit 10",
+        "path": "Speedlimit/Speed_limit_SL10"
+      },
+      {
+        "title": "Speed Limit 20",
+        "path": "Speedlimit/Speed_limit_SL20"
+      },
+      {
+        "title": "Speed Limit 30",
+        "path": "Speedlimit/Speed_limit_SL30"
+      },
+      {
+        "title": "Speed Limit 40",
+        "path": "Speedlimit/Speed_limit_SL40"
+      },
+      {
+        "title": "Speed Limit 50",
+        "path": "Speedlimit/Speed_limit_SL50"
+      },
+      {
+        "title": "Speed Limit 60",
+        "path": "Speedlimit/Speed_limit_SL60"
+      },
+      {
+        "title": "Speed Limit 70",
+        "path": "Speedlimit/Speed_limit_SL70"
+      }
+    ]
+  },
+  {
+    "title": "Weather Condition",
+    "types": [
+      {
+        "title": "Weather Condition 1",
+        "path": "WeatherCondition/Weather_Conditions_WC_01"
+      },
+      {
+        "title": "Weather Condition 2",
+        "path": "WeatherCondition/Weather_Conditions_WC_02"
+      },
+      {
+        "title": "Weather Condition 3",
+        "path": "WeatherCondition/Weather_Conditions_WC_03"
+      },
+      {
+        "title": "Weather Condition 4",
+        "path": "WeatherCondition/Weather_Conditions_WC_04"
+      },
+      {
+        "title": "Weather Condition 5",
+        "path": "WeatherCondition/Weather_Conditions_WC_05"
+      },
+      {
+        "title": "Weather Condition 6",
+        "path": "WeatherCondition/Weather_Conditions_WC_06"
+      },
+      {
+        "title": "Weather Condition 7",
+        "path": "WeatherCondition/Weather_Conditions_WC_07"
+      },
+      {
+        "title": "Weather Condition 8",
+        "path": "WeatherCondition/Weather_Conditions_WC_08"
+      },
+      {
+        "title": "Weather Condition 9",
+        "path": "WeatherCondition/Weather_Conditions_WC_09"
+      }
+    ]
+  }
+]
